@@ -1,6 +1,8 @@
 # LandingAnimateWebsite
 
 A visually engaging website built with React.js featuring smooth, small-scale animations for an interactive user experience.
+This is my first React animated website focused on learning animations with React.js. The site is not responsive and uses Tailwind CSS for UI styling. Icons are from Remix Icon, and animations are powered by GSAP.
+
 
 This project uses **Vite** for fast development and **ESLint** rules for clean code quality.
 
