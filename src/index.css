@@ -1,0 +1,37 @@
+@import "tailwindcss";
+@import "locomotive-scroll/dist/locomotive-scroll.css";
+
+@font-face {
+  font-family: "pricedown";
+  src: url("./pricedown.otf");
+}
+
+/* In your App.css or index.css */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #180222;
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: black;
+}
+
+/* Optional for horizontal scrollbar */
+::-webkit-scrollbar-horizontal {
+  height: 8px;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  font-family: "pricedown";
+}
