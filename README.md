@@ -1,6 +1,8 @@
-# React + Vite
+# LandingAnimateWebsite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually engaging website built with React.js featuring smooth, small-scale animations for an interactive user experience.
+
+This project uses **Vite** for fast development and **ESLint** rules for clean code quality.
 
 Currently, two official plugins are available:
 
